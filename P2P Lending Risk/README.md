@@ -1,4 +1,4 @@
-# P2P Lending Risk Analysis – Prosper Loans
+# Customer Segmentation & Risk Analysis
 
 ## Project Overview
 
