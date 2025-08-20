@@ -1,4 +1,4 @@
-# E-commerce Customer Behavior – KPI Dashboard
+# E-commerce Growth Dashboard
 
 ## Project Overview
 
