@@ -1,12 +1,12 @@
-# Data-Analytics-Portfolio
+# Analytics-Portfolio
 
 ## About
 
-Hi, I'm Ari! With a background in healthcare supply chain operations, I'm making a career transition into analytics to follow my passion for working with data, uncovering insights, and solving real-world problems.
+Hi, I'm Ari! With a background in healthcare supply chain operations, I have a passion for working with data, uncovering insights, and solving real-world problems.
 
 Over the past several months, I’ve focused on building foundational skills in Google Sheets, SQL, Tableau, and Python through self-led projects that explore topics I care deeply about including business intelligence, e-commerce, investing, and fraud prevention. Each project reflects my curiosity, analytical thinking, and desire to create something useful and practical.
 
-As I grow into this new path, I’m excited to keep learning, collaborating, and building tools that support data-driven decision making. I believe good analysis tells a story and I’m here to tell better ones with data.
+As I grow my new skills, I’m excited to keep learning, collaborating, and building tools that support data-driven decision making. I believe good analysis tells a story and I’m here to tell better ones with data.
 
 ### Check out my projects:
 
